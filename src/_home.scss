@@ -1,0 +1,32 @@
+.container-2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+}
+
+.greeting {
+    margin-top: 30px;
+}
+
+.about {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    height: auto;
+}
+
+.about-box {
+    width: 80%;
+    height: auto;
+}
+
+.chat {
+    padding: 0px 30px;
+}

@@ -1,0 +1,37 @@
+.container2 {
+    margin: 20px;
+}
+
+.about-box {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.about1, .about2 {
+    width: 400px;
+    height: auto;
+    padding: 15px;
+}
+
+.about-box p {
+    margin: 0px;
+}
+
+
+#hey {
+    margin: 0px;
+    font-family: 'Ranga', sans-serif;
+    display: inline;
+}
+
+#hand {
+    width: 30px;
+    height: 30px;
+}
+
+#hand img {
+    float: right;
+}

@@ -1,0 +1,28 @@
+/* #info {
+    text-align: center;
+    margin-top: 100px;
+} */
+
+.contact {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.social {
+    padding: 0px 5px;
+    text-align: center;
+    width: 40px;
+    height: 32px;
+    opacity: .5; 
+}
+
+.social-container {
+    margin: 20px 0px;
+}
+
+.email a {
+    font-size: 25px;
+}
